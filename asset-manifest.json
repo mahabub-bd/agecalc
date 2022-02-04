@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fad3c7c8.chunk.css",
-    "main.js": "/static/js/main.6472bf38.chunk.js",
-    "main.js.map": "/static/js/main.6472bf38.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f5a048fd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f5a048fd.js.map",
-    "static/js/2.6eb9aa0b.chunk.js": "/static/js/2.6eb9aa0b.chunk.js",
-    "static/js/2.6eb9aa0b.chunk.js.map": "/static/js/2.6eb9aa0b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fad3c7c8.chunk.css.map": "/static/css/main.fad3c7c8.chunk.css.map",
-    "static/js/2.6eb9aa0b.chunk.js.LICENSE.txt": "/static/js/2.6eb9aa0b.chunk.js.LICENSE.txt"
+    "main.css": "/agecalc/static/css/main.fad3c7c8.chunk.css",
+    "main.js": "/agecalc/static/js/main.6472bf38.chunk.js",
+    "main.js.map": "/agecalc/static/js/main.6472bf38.chunk.js.map",
+    "runtime-main.js": "/agecalc/static/js/runtime-main.a0adda88.js",
+    "runtime-main.js.map": "/agecalc/static/js/runtime-main.a0adda88.js.map",
+    "static/js/2.6eb9aa0b.chunk.js": "/agecalc/static/js/2.6eb9aa0b.chunk.js",
+    "static/js/2.6eb9aa0b.chunk.js.map": "/agecalc/static/js/2.6eb9aa0b.chunk.js.map",
+    "index.html": "/agecalc/index.html",
+    "static/css/main.fad3c7c8.chunk.css.map": "/agecalc/static/css/main.fad3c7c8.chunk.css.map",
+    "static/js/2.6eb9aa0b.chunk.js.LICENSE.txt": "/agecalc/static/js/2.6eb9aa0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5a048fd.js",
+    "static/js/runtime-main.a0adda88.js",
     "static/js/2.6eb9aa0b.chunk.js",
     "static/css/main.fad3c7c8.chunk.css",
     "static/js/main.6472bf38.chunk.js"
