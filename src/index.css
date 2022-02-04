@@ -1,0 +1,30 @@
+body {
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+  text-align: center;
+  color: aliceblue;
+}
+.btn {
+  border: none;
+  outline: none;
+  background-color: #310210;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.form__container {
+  width: 60%;
+  margin: 100px auto;
+  text-align: center;
+  border: 1px solid #d90647;
+  padding: 50px;
+  border-radius: 6px;
+}
+.name {
+  padding: 3px 5px;
+}
